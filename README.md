@@ -1,6 +1,9 @@
 # imdb-sentiment-eda
 This is actually one of my first EDA projects... so please dont mind the blaring hints of naivety...
 
+Dataset downloaded from:
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 This project performs Exploratory Data Analysis (EDA) on the IMDB Movie Reviews dataset. The goal was to visualize the true sentiment drivers in positive vs. negative reviews.
 
 The Problem Standard Word Cloud approaches failed because domain-specific stop words (like "movie", "film", "story") appeared frequently in both positive and negative reviews, drowning out the actual sentiment signals.
